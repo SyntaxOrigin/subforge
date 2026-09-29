@@ -10,3 +10,16 @@
 
 # Kalite kapisi ciktilari (README'ye girmeden once uretilir)
 kalite-kapisi.txt
+
+# ornek/ altindaki uretilmis cikti dosyalari (shift/normalize/convert sonrasi)
+ornek/shifted.*
+ornek/normalize.srt
+ornek/geri.srt
+ornek/n23976.srt
+ornek/donusturulmus.*
+ornek/x.vtt
+ornek/ara.*
+ornek/son.srt
+ornek/json.vtt
+ornek/n1.srt
+ornek/yuzde.srt
