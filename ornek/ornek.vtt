@@ -1,0 +1,16 @@
+WEBVTT
+Kind: captions
+Language: tr
+
+NOTE
+Bu bir WebVTT yorum blogudur.
+
+STYLE
+::cue { color: white }
+
+00:01.000 --> 00:03.000
+Merhaba, dunya.
+
+00:04.000 --> 00:06.500
+Ikinci cue, iki satirlidir.
+Ikinci satiri.

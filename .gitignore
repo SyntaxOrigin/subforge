@@ -1,0 +1,12 @@
+/target/
+.env
+*.log
+
+# Editor ve arac taslari
+.idea/
+.vscode/
+*.swp
+*.tmp
+
+# Kalite kapisi ciktilari (README'ye girmeden once uretilir)
+kalite-kapisi.txt
